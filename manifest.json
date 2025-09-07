@@ -1,0 +1,69 @@
+{
+  "name": "Hopeful Quotes For Mental Health",
+  "short_name": "Hopeful Quotes",
+  "lang": "en",
+  "description": "A mental health support application that provides hopeful and inspiring quotes to help users through difficult times.",
+  "id": "andersfrimannschizophrenia",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "type": "image/svg+xml",
+      "sizes": "any",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon-512x512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "theme_color": "#8b5cf6",
+  "background_color": "#3730a3",
+  "iarc_rating_id": "PLEASE_OBTAIN_AND_REPLACE_WITH_YOUR_OWN_IARC_ID",
+  "categories": [
+    "health",
+    "books",
+    "medical",
+    "music",
+    "entertainment"
+  ],
+  "shortcuts": [
+    {
+      "name": "Home",
+      "short_name": "Home",
+      "description": "Go to the main quote screen",
+      "url": "/",
+      "icons": [
+        {
+          "src": "/icon.svg",
+          "sizes": "any",
+          "type": "image/svg+xml"
+        }
+      ]
+    },
+    {
+      "name": "Favorites",
+      "short_name": "Favorites",
+      "description": "View your saved favorite quotes",
+      "url": "/?view=favorites",
+      "icons": [
+        {
+          "src": "/icon.svg",
+          "sizes": "any",
+          "type": "image/svg+xml"
+        }
+      ]
+    }
+  ]
+}
