@@ -38,6 +38,26 @@
     "music",
     "entertainment"
   ],
+  "screenshots": [
+    {
+      "src": "/screenshots/mobile-main.jpg",
+      "type": "image/jpeg",
+      "sizes": "1080x2640",
+      "form_factor": "narrow"
+    },
+    {
+      "src": "/screenshots/mobile-music.jpg",
+      "type": "image/jpeg",
+      "sizes": "1080x2640",
+      "form_factor": "narrow"
+    },
+    {
+      "src": "/screenshots/mobile.favorites.jpg",
+      "type": "image/jpeg",
+      "sizes": "1080x2640",
+      "form_factor": "narrow"
+    }
+  ],
   "shortcuts": [
     {
       "name": "Home",
