@@ -67,9 +67,10 @@
       "url": "/?view=favorites",
       "icons": [
         {
-          "src": "/icon.svg",
+          "src": "/icon-192x192.png",
           "sizes": "any",
-          "type": "image/svg+xml"
+          "type": "any maskable",
+          "purpose": "any maskable"
         }
       ]
     }
